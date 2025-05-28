@@ -1,0 +1,30 @@
+# Transformers & LLM
+transformers
+torch
+accelerate
+bitsandbytes
+
+# Vector store
+faiss-cpu  
+
+# Text embedding
+sentence-transformers
+
+
+langchain
+
+# Document parsing
+PyPDF2
+python-docx
+tqdm
+
+# Web UI (optional)
+streamlit
+gradio
+
+# Utils
+python-dotenv
+torch==2.2.0+cpu
+torchvision==0.17.0+cpu
+torchaudio==2.2.0+cpu
+--extra-index-url https://download.pytorch.org/whl/cpu

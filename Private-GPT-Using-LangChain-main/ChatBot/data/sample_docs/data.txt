@@ -1,0 +1,13 @@
+The Eiffel Tower was constructed in 1889 and is located in Paris, France. 
+It was designed by Gustave Eiffel’s engineering company for the 1889 Exposition Universelle.
+
+The tower is 300 meters tall, and it remained the tallest structure in the world until 1930. 
+Today, the Eiffel Tower is one of the most visited monuments globally.
+
+Paris, often referred to as the City of Light, is the capital city of France. 
+It is known for its art, fashion, gastronomy, and culture.
+
+The Louvre Museum in Paris is the world's largest art museum, home to the Mona Lisa.
+
+France is located in Western Europe and has a population of around 67 million people. 
+Its official language is French, and its currency is the Euro.
